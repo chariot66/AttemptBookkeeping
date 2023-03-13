@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AttemptBookkeeping</string>
+
+    <string-array name="noteDescription">
+        <item>123123123</item>
+        <item>234234234</item>
+    </string-array>
+    <string-array name="noteName">
+        <item>Note 1</item>
+        <item>Note 2</item>
+    </string-array>
+
+    <string-array name="log">
+        <item>spend</item>
+        <item>income</item>
+    </string-array>
+    <string-array name="type">
+        <item>eat</item>
+        <item>car</item>
+    </string-array>
+    <integer-array name="amount">
+        <item>10</item>
+        <item>20</item>
+    </integer-array>
+    <string-array name="time">
+        <item>2020-1-1</item>
+        <item>2020-1-2</item>
+    </string-array>
+
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_day">Day</string>
+    <string name="title_month">Month</string>
+    <string name="title_year">Year</string>
+    <string name="title_user">User</string>
+</resources>
